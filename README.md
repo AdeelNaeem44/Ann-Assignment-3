@@ -1,17 +1,17 @@
 # Ann-Assignment-3
 
 #  credit dataset
-The dataset contains the following columns:
-clientid: Unique identifier for the client.
-income: The income of the client.
-age: The age of the client.
-loan: The loan amount.
-default: Whether the client has defaulted (0 = no, 1 = yes) 
+The dataset contains the following columns:  
+clientid: Unique identifier for the client.    
+income: The income of the client.  
+age: The age of the client.  
+loan: The loan amount.  
+default: Whether the client has defaulted (0 = no, 1 = yes)   
 
-# Preprocessing Steps:
-Handling Missing Values: Check for missing values and decide how to handle them.
-Handling Outliers: Identify and manage any outliers.
-Feature Scaling: Scale numeric features such as income, age, and loan.
+# Preprocessing Steps:  
+Handling Missing Values: Check for missing values and decide how to handle them.  
+Handling Outliers: Identify and manage any outliers.  
+Feature Scaling: Scale numeric features such as income, age, and loan.  
 Encoding Categorical Variables: If necessary (though none seem present here).
 Feature Engineering: Any derived features that might be useful.
 
